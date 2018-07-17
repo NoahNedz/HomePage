@@ -7,7 +7,12 @@ form,fieldset,input,textarea,p,blockquote,th,td {
     margin: 0;
 }
 a{
-	text-decoration:none;
+	font-weight: normal;
+    font-size: 100%;
+    margin:0;
+	padding:0;
+	font-family: "Courier New", Courier, monospace;
+    color:#ffffff;
 }
 table {
     border-spacing: 0;
@@ -83,6 +88,7 @@ h1{
 p{
 	font-size: 2em;
 }
+
 .intro p{
 	width: 50%;
 	margin: 0 auto;
@@ -263,3 +269,4 @@ p{
 	z-index: 999;
  }
 
+ 
